@@ -4,7 +4,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ritikarajwar&label=Profile%20views&color=0e75b6&style=flat" alt="ritikarajwar" /> </p>
 
+- 🌱 I’m currently learning **backend developing**
+
 - 📫 How to reach me **ritikarajwar0@gmail.com**
+
+- ⚡ Fun fact **being funny is fun**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
