@@ -1,6 +1,4 @@
-<div align="center">
-  <img height="150" src="https://media.tenor.com/images/7db4eaa3e47272c8e58ee018fc390b7d/tenor.gif"  />
-</div>
+
 
 ###
 
