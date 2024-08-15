@@ -37,7 +37,7 @@
 
 ###
 
-<p align="left">- 📚 I'm learning **BACKEND DEVELOPMENT**<br>-🔭I’m currently working on JAVA<br>- ⚡ Fun fact **being funny is fun**</p>
+<p align="left">- 📚 I'm learning **BACKEND DEVELOPMENT**<br>-🔭I’m currently working on JAVA FRAMEWORK<br>- ⚡ Fun fact **being funny is fun**</p>
 
 ###
 
